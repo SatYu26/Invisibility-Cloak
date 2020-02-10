@@ -19,7 +19,7 @@ We are using a red colored cloth as our cloak. Why red? Why not green? Sure, we 
 > - Detect the red colored cloth using color detection algorithm.
 > - Segment out the red colored cloth by generating a mask.
 > - Generate the final augmented output to create the magical effect.
-
+---
 
 ## Installation
 
