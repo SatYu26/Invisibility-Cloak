@@ -25,7 +25,7 @@ We are using a red colored cloth as our cloak. Why red? Why not green? Sure, we 
 
 #### Clone
 
-- Clone this repo to your local machine using `https://github.com/kaustubh-sadekar/Invisibility_Cloak.git`
+- Clone this repo to your local machine using `https://github.com/SatYu26/Invisibility-Cloak`
 
 #### Setup/Requirements
 
