@@ -1,7 +1,7 @@
 # Invisibility Cloak
 
 
-Being a harry potter fan I always had a childhood fantasy of using an invisibility cloak. Well, it turns out that you can create this magical experience using an image processing technique called color detection and segmentation. And the good news is, you don’t need to be part of *Hogwarts for that!* All you need is a Red colored cloth and follow this repository.
+Being a harry potter fan I always had a childhood fantasy of using an invisibility cloak. Well, it turns out that you can create this magical experience using an image processing technique called color detection and segmentation. And the good news is, you don’t need to be part of **Hogwarts for that!** All you need is a Red colored cloth and follow this repository.
 This [code] turns a `red` colour cloth into an invisibility cloak.
 
 >- It's a fun application which you will enjoy using.
@@ -19,13 +19,13 @@ We are using a red colored cloth as our cloak. Why red? Why not green? Sure, we 
 > - Detect the red colored cloth using color detection algorithm.
 > - Segment out the red colored cloth by generating a mask.
 > - Generate the final augmented output to create the magical effect.
-
+---
 
 ## Installation
 
 #### Clone
 
-- Clone this repo to your local machine using `https://github.com/kaustubh-sadekar/Invisibility_Cloak.git`
+- Clone this repo to your local machine using `https://github.com/SatYu26/Invisibility-Cloak`
 
 #### Setup/Requirements
 
@@ -36,6 +36,9 @@ We are using a red colored cloth as our cloak. Why red? Why not green? Sure, we 
 > - time
 ---
 
+## Acknowledgement
+
+https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
 
 ## License
 
